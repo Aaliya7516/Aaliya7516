@@ -21,9 +21,9 @@ Skills: Python / Angular / C++ / Flask / HTML / CSS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aaliya7516&label=Profile%20views&color=0e75b6&style=flat" alt="Aaliya7516" /> </p><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aaliya7516" alt="Aaliya7516" /></a></p><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aaliya7516" alt="Aaliya7516" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaliya7516&show_icons=true&locale=en&layout=compact" alt="Aaliya7516" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaliya7516&show_icons=true&locale=en&layout=compact" alt="Aaliya7516" /></p><br><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaliya7516&show_icons=true)  
 
