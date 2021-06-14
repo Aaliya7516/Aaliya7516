@@ -16,6 +16,7 @@ Skills: Python / Angular / C++ / Flask / HTML / CSS
 - 😄 Pronouns: She/her 
 - ⚡ Fun fact: I am an Astrophile and love to learn astronomy  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aaliya7516&label=Profile%20views&color=0e75b6&style=flat" alt="Aaliya7516" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aaliya7516)](https://github.com/ryo-ma/github-profile-trophy)
 
