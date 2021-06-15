@@ -10,14 +10,13 @@
 
 Skills: Python / Angular / C++ / Flask / HTML / CSS
 
-- 🔭 I’m currently working on Angular 
-- 🌱 I’m currently learning JavaScript and React 
+- 🔭 I’m currently working on Angular👩‍💻
+- 🌱 I’m currently learning JavaScript and React 🤓
 - 👯 I’m looking to collaborate on Full stack React Project 
 - 💬 Ask me about HTML, CSS and Angular 
-- 🤔 I’m looking to learn new skills from you
+- 🤔 I’m always ready to have a long conversation about Astronomy ✨
 - 📫 How to reach me: aaliya7516@gmail.com 
-- 😄 Pronouns: She/her 
-- ⚡ Fun fact: I am an Astrophile and love to learn astronomy  
+- ⚡ Fun fact: I am a big foodie😋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aaliya7516&label=Profile%20views&color=0e75b6&style=flat" alt="Aaliya7516" /> </p><br>
 
